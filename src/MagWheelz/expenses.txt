@@ -1,0 +1,14 @@
+Grocery:
+budget: 200
+spent: 111
+
+Lifestyle:
+budget: 150
+spent: 71
+
+Restaurant: budget: 50
+spent: 0
+
+Fuel:
+budget: 90
+spent: 48
